@@ -52,10 +52,17 @@ public class StateLottery {
         }
 
         for(int[] ticket : tickets)
-            Arrays.sort(ticket, 0, 4); //initially sort generated tickets
+            Arrays.sort(ticket, 0, 5); //initially sort generated tickets
 
         boolean duplicate = false;
         do {
+            for(int[] ticket : tickets)
+                for(int i = 0; i < 4; i++)
+                    if(ticket[i] == ticket[i+1]) {
+                        ticket[i] = generator.nextInt(56) + 1;
+                        Arrays.sort(ticket, 0, 5);
+                    }
+
             for(int i = 0; i < numberOfTickets; i++)
                 for(int j = i+1; j < numberOfTickets; j++)
                     if(Arrays.equals(tickets[i], tickets[j])) {
@@ -67,7 +74,7 @@ public class StateLottery {
         } while(duplicate);
 
         for(int[] ticket : tickets)
-            Arrays.sort(ticket, 0, 4); //sorts the tickets again if duplicates were found
+            Arrays.sort(ticket, 0, 5); //sorts the tickets again if duplicates were found
 
         System.out.printf("\nPrinting lottery tickets\n");
         for(int[] ticket : tickets) {
