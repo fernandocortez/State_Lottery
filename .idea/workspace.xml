@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05231b89-01f4-4627-a163-156ef9634dca" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/StateLottery.java" afterPath="$PROJECT_DIR$/src/StateLottery.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="05231b89-01f4-4627-a163-156ef9634dca" name="Default" comment="" />
     <ignored path="State_Lottery.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -70,7 +67,7 @@
       <file leaf-file-name="StateLottery.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/StateLottery.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="63" column="20" selection-start="2676" selection-end="2676" vertical-scroll-proportion="0.4848485" vertical-offset="623" max-vertical-offset="1547">
+            <state line="63" column="20" selection-start="2676" selection-end="2676" vertical-scroll-proportion="0.9199134" vertical-offset="221" max-vertical-offset="1547">
               <folding>
                 <element signature="e#0#3492#0" expanded="true" />
                 <element signature="imports" expanded="true" />
@@ -200,19 +197,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -238,6 +222,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -362,6 +359,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/StateLottery.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="20" selection-start="2676" selection-end="2676" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="1547">
+          <folding>
+            <element signature="e#0#3492#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StateLottery.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="63" column="20" selection-start="2676" selection-end="2676" vertical-scroll-proportion="0.0" vertical-offset="697" max-vertical-offset="1547">
           <folding>
             <element signature="e#0#3492#0" expanded="true" />
@@ -382,7 +389,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/StateLottery.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="20" selection-start="2676" selection-end="2676" vertical-scroll-proportion="0.4848485" vertical-offset="623" max-vertical-offset="1547">
+        <state line="63" column="20" selection-start="2676" selection-end="2676" vertical-scroll-proportion="0.9199134" vertical-offset="221" max-vertical-offset="1547">
           <folding>
             <element signature="e#0#3492#0" expanded="true" />
             <element signature="imports" expanded="true" />
